@@ -1,0 +1,64 @@
+{
+    "name": "MyShoppingCartApp",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "6.1.2.15",
+            "frameworkVersion": "2.4.0.482"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "projectHasEnabledWebServer": true
+    },
+    "xdsVersion": "3.1.0",
+    "xdsBuild": 1943,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000007,
+    "framework": "touch24",
+    "viewOrderMap": {
+        "view": [
+            "e2ae7fe3-56c4-412f-b7a1-403ee7acbad1",
+            "29ccfa93-d52c-4572-abda-118a68d62064",
+            "c42cbb59-2d58-4853-b424-081d2b98504d",
+            "f0d59e6b-d45f-40fc-b5b9-0c19204d6aca",
+            "5141dd1a-da77-4e29-ad73-bc58c939bc31"
+        ],
+        "store": [
+            "ad4c72b0-fb76-47ec-a86e-ed897c1545d4",
+            "38e28bd0-7275-4772-b1d7-7c4b19c1cdb7"
+        ],
+        "controller": [
+            "23d75adf-9c14-49ec-acce-ea5ba7a77c30",
+            "9aebe38d-49c3-4ec9-838a-750e13288f1a",
+            "63007e4f-a657-4eb8-885d-3680860ba2bd",
+            "e1b99e45-47c2-44d2-a716-3e62f98e12da"
+        ],
+        "model": [
+            "03424021-5c47-4472-949c-f8016fd707a3",
+            "d139dd1c-b440-4ea3-890a-133bea10aa31"
+        ],
+        "resource": [
+            "a2deed2a-10c3-41c8-84ed-8747a54f6eb3",
+            "23db114a-beb0-43f3-ad95-d81d5f9d13e9"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

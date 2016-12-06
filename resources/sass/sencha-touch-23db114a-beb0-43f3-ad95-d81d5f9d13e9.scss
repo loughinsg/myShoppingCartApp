@@ -1,0 +1,45 @@
+
+
+@import 'sencha-touch/default';
+@import 'sencha-touch/default/all';
+
+/*missing spinner from android theme*/
+@include st-loading-spinner;
+
+
+/*loading mask*/
+.x-mask .x-mask-inner{
+    background:rgba(0,0,0,0.85);
+    border-radius: 10px;
+}
+
+.x-mask .x-mask-message{
+    color:#FFF;
+}
+
+.x-mask {
+    background:rgba(0,0,0,0.2);
+}
+.x-mask.x-has-message .x-mask-inner{
+    padding-bottom: 3em;
+}
+.x-mask.x-has-message .x-loading-spinner-outer{
+    height: 100px;
+}
+.x-mask .x-mask-message{
+    padding: 3px;
+}
+
+
+/*strike through to font*/
+.strikeThroughOldPrice{
+	text-decoration: line-through;
+}
+
+.productsListView .list-item {
+	border:1px solid #606060;
+    border-radius:5px;
+    padding:5px;
+}
+
+
